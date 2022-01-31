@@ -76,5 +76,5 @@ To see the values algorithms got for each metric see the table below.
 
 ## Conclusion
 
-I have tuned few parameters for example training and test size, random state and most of the algorithm performed close enough to each other. For different datasets this code can be used. You may need to change feature selection and if your dataset has missing values you should fill in these values as well. Other than these things you can perform classification with different kind of algorithms. 
+I have tuned few parameters for example training and test size, random state and most of the algorithms performed close enough to each other. For different datasets this code can be used. You may need to change feature selection part and if your dataset has missing values you should fill in these values as well. Other than these things you can perform classification with different kind of algorithms. 
 
