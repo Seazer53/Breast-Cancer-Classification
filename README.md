@@ -63,7 +63,7 @@ As you can see the figure below, most successful classification algorithm seems 
 
 ![image](https://user-images.githubusercontent.com/43848140/151818029-0a9bd8bd-bf0f-427c-8ffc-01be2757e5e6.png)
 
-To see the values algorithms got for each metric see the table below.
+To see the values for each algorithm got for each metric see the table below.
 
 | Algorithm          | Accuracy      | Precision      | Recall      | F Score      |
 | ------------------ | ------------- | ---------------| ----------- | ------------ |
